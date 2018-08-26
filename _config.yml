@@ -80,4 +80,4 @@ disqus_shortname: jeaniedaddy
 deploy:
   type: git
   repo: https://github.com/jeaniedaddy/jeaniedaddy.github.io
-  branch: last
+  branch: master
