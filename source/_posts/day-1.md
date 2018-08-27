@@ -1,7 +1,7 @@
 ---
 # post.md 머릿말
 title: day 1
-categories: [Tools, githubPage]
+categories: [일상]
 tags: [hexo]
 date: 2018-08-24 14:36:37
 
